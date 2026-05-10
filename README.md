@@ -1,2 +1,4 @@
 # Programaci-n-Guia4---Sergio-Calderon
-Ejercicios de Pseint y #C
+Grado: 4to Bachillerato 
+Sección: "E"
+Clave: 9
